@@ -1,0 +1,65 @@
+{
+    "items": [
+        {
+            "title": true,
+            "name": "Control de usuarios",
+            "url": "/dashboard",
+            "icon": "icon-speedometer"
+        },
+        {
+            "title": true,
+            "name": "Inventario de aplicaciones",
+            "url": "/dashboard",
+            "icon": "icon-speedometer"
+        },
+        {
+            "title": true,
+            "name": "Bóveda Digital",
+            "url": "/dashboard",
+            "icon": "icon-speedometer"
+        },
+        {
+            "title": true,
+            "name": "Asignación de tareas",
+            "url": "/dashboard",
+            "icon": "icon-speedometer"
+        },
+        {
+            "title": true,
+            "name": "Servicios administrados",
+            "url": "/dashboard",
+            "icon": "icon-speedometer",
+            "children":[
+                {
+                    "name": "Disponibilidad de servicios",
+                    "url": "/dashboard",
+                    "icon": "icon-speedometer"
+                }
+            ]
+        },
+        {
+            "title": true,
+            "name": "Portal de requerimientos",
+            "url": "/dashboard",
+            "icon": "icon-speedometer"
+        },
+        {
+            "title": true,
+            "name": "Matriz de aplicaciones",
+            "url": "/dashboard",
+            "icon": "icon-speedometer"
+        },
+        {
+            "title": true,
+            "name": "Base de conocimientos",
+            "url": "/dashboard",
+            "icon": "icon-speedometer"
+        },
+        {
+            "title": true,
+            "name": "Reportes",
+            "url": "/dashboard",
+            "icon": "icon-speedometer"
+        }
+    ]
+}
