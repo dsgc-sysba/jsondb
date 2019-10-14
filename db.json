@@ -1,65 +1,56 @@
 {
     "items": [
         {
-            "title": true,
             "name": "Control de usuarios",
             "url": "/dashboard",
-            "icon": "icon-speedometer"
+            "icon": "icon-people"
         },
         {
-            "title": true,
             "name": "Inventario de aplicaciones",
             "url": "/dashboard",
-            "icon": "icon-speedometer"
+            "icon": "icon-list"
         },
         {
-            "title": true,
             "name": "Bóveda Digital",
             "url": "/dashboard",
-            "icon": "icon-speedometer"
+            "icon": "icon-shield"
         },
         {
-            "title": true,
             "name": "Asignación de tareas",
             "url": "/dashboard",
-            "icon": "icon-speedometer"
+            "icon": "icon-note"
         },
         {
-            "title": true,
             "name": "Servicios administrados",
             "url": "/dashboard",
-            "icon": "icon-speedometer",
+            "icon": "icon-puzzle",
             "children":[
                 {
                     "name": "Disponibilidad de servicios",
                     "url": "/dashboard",
-                    "icon": "icon-speedometer"
+                    "icon": "icon-list"
                 }
             ]
         },
         {
-            "title": true,
             "name": "Portal de requerimientos",
             "url": "/dashboard",
-            "icon": "icon-speedometer"
+            "icon": "icon-speech"
         },
         {
-            "title": true,
             "name": "Matriz de aplicaciones",
             "url": "/dashboard",
-            "icon": "icon-speedometer"
+            "icon": "icon-screen-desktop"
         },
         {
-            "title": true,
             "name": "Base de conocimientos",
             "url": "/dashboard",
-            "icon": "icon-speedometer"
+            "icon": "icon-map"
         },
         {
-            "title": true,
             "name": "Reportes",
             "url": "/dashboard",
-            "icon": "icon-speedometer"
+            "icon": "icon-info"
         }
     ]
 }
