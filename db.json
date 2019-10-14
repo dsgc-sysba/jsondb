@@ -1,56 +1,66 @@
 {
-    "items": [
-        {
-            "name": "Control de usuarios",
-            "url": "/dashboard",
-            "icon": "icon-people"
-        },
-        {
-            "name": "Inventario de aplicaciones",
-            "url": "/dashboard",
-            "icon": "icon-list"
-        },
-        {
-            "name": "Bóveda Digital",
-            "url": "/dashboard",
-            "icon": "icon-shield"
-        },
-        {
-            "name": "Asignación de tareas",
-            "url": "/dashboard",
-            "icon": "icon-note"
-        },
-        {
-            "name": "Servicios administrados",
-            "url": "/dashboard",
-            "icon": "icon-puzzle",
-            "children":[
-                {
-                    "name": "Disponibilidad de servicios",
-                    "url": "/dashboard",
-                    "icon": "icon-list"
-                }
-            ]
-        },
-        {
-            "name": "Portal de requerimientos",
-            "url": "/dashboard",
-            "icon": "icon-speech"
-        },
-        {
-            "name": "Matriz de aplicaciones",
-            "url": "/dashboard",
-            "icon": "icon-screen-desktop"
-        },
-        {
-            "name": "Base de conocimientos",
-            "url": "/dashboard",
-            "icon": "icon-map"
-        },
-        {
-            "name": "Reportes",
-            "url": "/dashboard",
-            "icon": "icon-info"
-        }
-    ]
+   "items":[
+      {
+         "name":"Control de usuarios",
+         "url":"/dashboard",
+         "icon":"icon-people"
+      },
+      {
+         "name":"Inventario de aplicaciones",
+         "url":"/dashboard",
+         "icon":"icon-list"
+      },
+      {
+         "name":"Bóveda Digital",
+         "url":"/dashboard",
+         "icon":"icon-shield"
+      },
+      {
+         "name":"Asignación de tareas",
+         "url":"/dashboard",
+         "icon":"icon-note"
+      },
+      {
+         "name":"Servicios administrados",
+         "url":"/dashboard",
+         "icon":"icon-puzzle",
+         "children":[
+            {
+               "name":"Disponibilidad de servicios",
+               "url":"/dashboard",
+               "icon":"icon-list"
+            }
+         ]
+      },
+      {
+         "name":"Portal de requerimientos",
+         "url":"/dashboard",
+         "icon":"icon-speech"
+      },
+      {
+         "name":"Matriz de aplicaciones",
+         "url":"/dashboard",
+         "icon":"icon-screen-desktop"
+      },
+      {
+         "name":"Base de conocimientos",
+         "url":"/dashboard",
+         "icon":"icon-map"
+      },
+      {
+         "name":"Reportes",
+         "url":"/dashboard",
+         "icon":"icon-info"
+      }
+   ],
+   "catactividades":[
+      {
+         "id":1,
+         "texto":"dinamica de viernes"
+      },
+      {
+         "id":2,
+         "texto":"juego de integracion"
+      }
+   ]
 }
