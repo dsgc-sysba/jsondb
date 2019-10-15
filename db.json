@@ -67,7 +67,7 @@
                 { "id": 1, "titulo": "Dinamica de integración", "descripcion": "Un juego en medio del sol", "fecha": "16/06/2019", "estatus": true },
                 { "id": 2, "titulo": "Desayuno", "descripcion": "Desayuno para cumpleañeros", "fecha": "16/09/2019", "estatus": true },
                 { "id": 3, "titulo": "Diseño de proyectos", "descripcion": "Diseño de proyectos de TI", "fecha": "16/06/2019", "estatus": true },
-                { "id": 4, "titulo": "Actividad 1", "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque in turpis duis.", "fecha": "16/06/2019", "estatus": true },
-                { "id": 5, "titulo": "Actividad 2", "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque in turpis duis. ", "fecha": "16/06/2019", "estatus": true }
+                { "id": 4, "titulo": "Actividad N", "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque in turpis duis.", "fecha": "16/06/2019", "estatus": true },
+                { "id": 5, "titulo": "Actividad N+1", "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque in turpis duis. ", "fecha": "16/06/2019", "estatus": true }
             ]
 }
