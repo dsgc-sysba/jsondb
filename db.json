@@ -1,79 +1,225 @@
 {
-   "items":[
-      {
-         "name":"Control de usuarios",
-         "url":"#",
-         "icon":"icon-people"
-      },
-      {
-         "name":"Inventario de aplicaciones",
-         "url":"#",
-         "icon":"icon-list"
-      },
-      {
-         "name":"Bóveda Digital",
-         "url":"#",
-         "icon":"icon-shield"
-      },
-      {
-         "name":"Asignación de tareas",
-         "url":"#",
-         "icon":"icon-note"
-      },
-      {
-         "name":"Servicios administrados",
-         "url":"#",
-         "icon":"icon-puzzle",
-         "children":[
-            {
-               "name":"Disponibilidad de servicios",
-               "url":"#",
-               "icon":"icon-list"
-            }
-         ]
-      },
-      {
-         "name":"Portal de requerimientos",
-         "url":"#",
-         "icon":"icon-speech"
-      },
-      {
-         "name":"Matriz de aplicaciones",
-         "url":"#",
-         "icon":"icon-screen-desktop"
-      },
-      {
-         "name":"Base de conocimientos",
-         "url":"#",
-         "icon":"icon-map"
-      },
-      {
-         "name":"Reportes",
-         "url":"#",
-         "icon":"icon-info"
-      }
-   ],
-   "catactividades":[
-      {
-         "id":1,
-         "texto":"dinamica de viernes"
-      },
-      {
-         "id":2,
-         "texto":"juego de integracion"
-      }
-   ],
-   "cat_actividades": [
-                { "id": 1, "titulo": "Dinamica de integración", "descripcion": "Un juego en medio del sol", "fecha": "16/06/2019", "estatus": true },
-                { "id": 2, "titulo": "Desayuno", "descripcion": "Desayuno para cumpleañeros", "fecha": "16/09/2019", "estatus": true },
-                { "id": 3, "titulo": "Diseño de proyectos", "descripcion": "Diseño de proyectos de TI", "fecha": "16/06/2019", "estatus": true },
-                { "id": 4, "titulo": "Actividad N", "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque in turpis duis.", "fecha": "16/06/2019", "estatus": true },
-                { "id": 5, "titulo": "Actividad N+1", "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque in turpis duis. ", "fecha": "16/06/2019", "estatus": true }
-            ],
-   "cat_prioridades": [
-                { "id": 1, "descripcion": "Urgente", "color": "#d93d1c", "fecha": "16/06/2019", "estatus": true },
-                { "id": 2, "descripcion": "Alta",    "color": "#146adf", "fecha": "16/09/2019", "estatus": true },
-                { "id": 3, "descripcion": "Normal",  "color": "#cbd11d", "fecha": "16/06/2019", "estatus": true },
-                { "id": 4, "descripcion": "Baja", 	 "color": "#37b210", "fecha": "16/06/2019", "estatus": true }
+    "items": [
+        {
+            "name": "Control de usuarios",
+            "url": "#",
+            "icon": "icon-people"
+        },
+        {
+            "name": "Inventario de aplicaciones",
+            "url": "#",
+            "icon": "icon-list"
+        },
+        {
+            "name": "Bóveda Digital",
+            "url": "#",
+            "icon": "icon-shield"
+        },
+        {
+            "name": "Asignación de tareas",
+            "url": "#",
+            "icon": "icon-note"
+        },
+        {
+            "name": "Servicios administrados",
+            "url": "#",
+            "icon": "icon-puzzle",
+            "children": [
+                {
+                    "name": "Disponibilidad de servicios",
+                    "url": "#",
+                    "icon": "icon-list"
+                }
             ]
+        },
+        {
+            "name": "Portal de requerimientos",
+            "url": "#",
+            "icon": "icon-speech"
+        },
+        {
+            "name": "Matriz de aplicaciones",
+            "url": "#",
+            "icon": "icon-screen-desktop"
+        },
+        {
+            "name": "Base de conocimientos",
+            "url": "#",
+            "icon": "icon-map"
+        },
+        {
+            "name": "Reportes",
+            "url": "#",
+            "icon": "icon-info"
+        }
+    ],
+    "catactividades": [
+        {
+            "id": 1,
+            "texto": "dinamica de viernes"
+        },
+        {
+            "id": 2,
+            "texto": "juego de integracion"
+        }
+    ],
+    "cat_actividades": [
+        {
+            "id": 1,
+            "titulo": "Dinamica de integración",
+            "descripcion": "Un juego en medio del sol",
+            "fecha": "16/06/2019",
+            "estatus": true
+        },
+        {
+            "id": 2,
+            "titulo": "Desayuno",
+            "descripcion": "Desayuno para cumpleañeros",
+            "fecha": "16/09/2019",
+            "estatus": true
+        },
+        {
+            "id": 3,
+            "titulo": "Diseño de proyectos",
+            "descripcion": "Diseño de proyectos de TI",
+            "fecha": "16/06/2019",
+            "estatus": true
+        },
+        {
+            "id": 4,
+            "titulo": "Actividad N",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque in turpis duis.",
+            "fecha": "16/06/2019",
+            "estatus": true
+        },
+        {
+            "id": 5,
+            "titulo": "Actividad N+1",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque in turpis duis. ",
+            "fecha": "16/06/2019",
+            "estatus": true
+        }
+    ],
+    "cat_prioridades": [
+        {
+            "id": 1,
+            "descripcion": "Urgente",
+            "color": "#d93d1c",
+            "fecha": "16/06/2019",
+            "estatus": true
+        },
+        {
+            "id": 2,
+            "descripcion": "Alta",
+            "color": "#146adf",
+            "fecha": "16/09/2019",
+            "estatus": true
+        },
+        {
+            "id": 3,
+            "descripcion": "Normal",
+            "color": "#cbd11d",
+            "fecha": "16/06/2019",
+            "estatus": true
+        },
+        {
+            "id": 4,
+            "descripcion": "Baja",
+            "color": "#37b210",
+            "fecha": "16/06/2019",
+            "estatus": true
+        }
+    ],
+    "actividades": [
+        [
+            {
+                "id": 97,
+                "titulo": "Actividad 1",
+                "colaborador": "Byers Mooney",
+                "fecha_inicio": "05/10/2017",
+                "fecha_fin": "27/11/2014",
+                "prioridad": "urgente",
+                "prioridad_color": "#000FF",
+                "estatus": "en proceso",
+                "porcentaje_avance": 55
+            },
+            {
+                "id": 9,
+                "titulo": "Actividad 100",
+                "colaborador": "Jerry Brennan",
+                "fecha_inicio": "09/06/2014",
+                "fecha_fin": "01/12/2014",
+                "prioridad": "no urgente",
+                "prioridad_color": "#FF0000",
+                "estatus": "asignado",
+                "porcentaje_avance": 42
+            },
+            {
+                "id": 96,
+                "titulo": "Actividad 100",
+                "colaborador": "Jennifer Knox",
+                "fecha_inicio": "15/11/2016",
+                "fecha_fin": "24/02/2019",
+                "prioridad": "importante",
+                "prioridad_color": "#00FF00",
+                "estatus": "pendiente",
+                "porcentaje_avance": 70
+            },
+            {
+                "id": 39,
+                "titulo": "Actividad 1",
+                "colaborador": "Ila Roth",
+                "fecha_inicio": "30/08/2019",
+                "fecha_fin": "07/03/2017",
+                "prioridad": "no urgente",
+                "prioridad_color": "#00FF00",
+                "estatus": "finalizada",
+                "porcentaje_avance": 80
+            },
+            {
+                "id": 61,
+                "titulo": "Actividad 1",
+                "colaborador": "Angelia Ewing",
+                "fecha_inicio": "17/09/2014",
+                "fecha_fin": "15/02/2019",
+                "prioridad": "importante",
+                "prioridad_color": "#FF0000",
+                "estatus": "en proceso",
+                "porcentaje_avance": 82
+            },
+            {
+                "id": 12,
+                "titulo": "Actividad 1",
+                "colaborador": "Weber Carlson",
+                "fecha_inicio": "25/01/2016",
+                "fecha_fin": "19/06/2019",
+                "prioridad": "media",
+                "prioridad_color": "#FF0000",
+                "estatus": "asignado",
+                "porcentaje_avance": 21
+            },
+            {
+                "id": 45,
+                "titulo": "Actividad 1",
+                "colaborador": "Leola Tanner",
+                "fecha_inicio": "13/05/2018",
+                "fecha_fin": "03/12/2015",
+                "prioridad": "urgente",
+                "prioridad_color": "#FF0000",
+                "estatus": "pendiente",
+                "porcentaje_avance": 12
+            },
+            {
+                "id": 40,
+                "titulo": "Actividad 100",
+                "colaborador": "Duran Levy",
+                "fecha_inicio": "05/01/2016",
+                "fecha_fin": "23/03/2017",
+                "prioridad": "no urgente",
+                "prioridad_color": "#00FF00",
+                "estatus": "asignado",
+                "porcentaje_avance": 11
+            }
+        ]
+    ]
 }
