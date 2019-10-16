@@ -2,54 +2,54 @@
    "items":[
       {
          "name":"Control de usuarios",
-         "url":"/dashboard",
+         "url":"#",
          "icon":"icon-people"
       },
       {
          "name":"Inventario de aplicaciones",
-         "url":"/dashboard",
+         "url":"#",
          "icon":"icon-list"
       },
       {
          "name":"Bóveda Digital",
-         "url":"/dashboard",
+         "url":"#",
          "icon":"icon-shield"
       },
       {
          "name":"Asignación de tareas",
-         "url":"/dashboard",
+         "url":"#",
          "icon":"icon-note"
       },
       {
          "name":"Servicios administrados",
-         "url":"/dashboard",
+         "url":"#",
          "icon":"icon-puzzle",
          "children":[
             {
                "name":"Disponibilidad de servicios",
-               "url":"/dashboard",
+               "url":"#",
                "icon":"icon-list"
             }
          ]
       },
       {
          "name":"Portal de requerimientos",
-         "url":"/dashboard",
+         "url":"#",
          "icon":"icon-speech"
       },
       {
          "name":"Matriz de aplicaciones",
-         "url":"/dashboard",
+         "url":"#",
          "icon":"icon-screen-desktop"
       },
       {
          "name":"Base de conocimientos",
-         "url":"/dashboard",
+         "url":"#",
          "icon":"icon-map"
       },
       {
          "name":"Reportes",
-         "url":"/dashboard",
+         "url":"#",
          "icon":"icon-info"
       }
    ],
