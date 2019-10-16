@@ -69,5 +69,11 @@
                 { "id": 3, "titulo": "Diseño de proyectos", "descripcion": "Diseño de proyectos de TI", "fecha": "16/06/2019", "estatus": true },
                 { "id": 4, "titulo": "Actividad N", "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque in turpis duis.", "fecha": "16/06/2019", "estatus": true },
                 { "id": 5, "titulo": "Actividad N+1", "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque in turpis duis. ", "fecha": "16/06/2019", "estatus": true }
+            ],
+   "cat_prioridades": [
+                { "id": 1, "descripcion": "Urgente", "color": "#d93d1c", "fecha": "16/06/2019", "estatus": true },
+                { "id": 2, "descripcion": "Alta",    "color": "#146adf", "fecha": "16/09/2019", "estatus": true },
+                { "id": 3, "descripcion": "Normal",  "color": "#cbd11d", "fecha": "16/06/2019", "estatus": true },
+                { "id": 4, "descripcion": "Baja", 	 "color": "#37b210", "fecha": "16/06/2019", "estatus": true }
             ]
 }
