@@ -131,7 +131,6 @@
         }
     ],
     "actividades": [
-        [
             {
                 "id": 97,
                 "titulo": "Actividad 1",
@@ -220,6 +219,5 @@
                 "estatus": "asignado",
                 "porcentaje_avance": 11
             }
-        ]
     ]
 }
