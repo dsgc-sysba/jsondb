@@ -220,23 +220,34 @@
                 "porcentaje_avance": 11
             }
     ],
-    "datasets": [
-      {
-         "data": [
-            300,
-            50,
-            100
-         ],
-         "backgroundColor": [
-            "#00FF00",
-            "#FFFF00",
-            "#0FFF00"
-         ],
-         "hoverBackgroundColor": [
-            "#00FF00",
-            "#FFFF00",
-            "#0FFF00"
-         ]
-      }
-   ]
+   "doughnut": {
+      "labels": [
+         "Trabajando",
+         "En Espera",
+         "Finalizadas"
+      ],
+      "datasets": [
+         {
+            "data": [
+               300,
+               50,
+               100
+            ],
+            "backgroundColor": [
+               "#00FF00",
+               "#FFFF00",
+               "#0FFF00"
+            ],
+            "hoverBackgroundColor": [
+               "#00FF00",
+               "#FFFF00",
+               "#0FFF00"
+            ]
+         }
+      ]
+   
+}
+
+
+
 }
