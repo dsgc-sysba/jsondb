@@ -220,10 +220,7 @@
                 "porcentaje_avance": 11
             }
     ],
-    
-
-{
-   "datasets": [
+    "datasets": [
       {
          "data": [
             300,
@@ -242,5 +239,4 @@
          ]
       }
    ]
-}
 }
